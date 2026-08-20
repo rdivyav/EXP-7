@@ -111,3 +111,4 @@ Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 <img width="1920" height="1080" alt="Screenshot 2026-08-20 104427" src="https://github.com/user-attachments/assets/1263b74b-8288-4038-8de1-4a724a8cfe44" />
 
 # RESULT:
+Thus AI-Powered smart contract for decentralized negotiation is executed successfully.
